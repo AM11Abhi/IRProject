@@ -1,0 +1,36 @@
+MANUAL RELEVANCE REVIEW INSTRUCTIONS
+
+You are reviewing a sample of 60 automatically judged query-document pairs.
+Your task is to verify if the LLM's `relevance` label (0 or 1) aligns with our strict project definition.
+
+STRICT LABELING RULE:
+
+- relevance = 1: 
+  The document is directly relevant to the query and substantially satisfies the information need.
+
+- relevance = 0: 
+  The document is irrelevant, only loosely related, or merely shares a keyword/topic.
+
+EXAMPLES:
+
+Query: "football match results premier league"
+  - Relevant: An article substantially discussing Premier League match results.
+  - Not relevant: An article about a football transfer.
+  - Not relevant: An article about Champions League results.
+  - Not relevant: An article that merely mentions a Premier League club.
+
+Query: "Apple product announcements"
+  - Relevant: Article specifically about Apple launching/unveiling a product.
+  - Not relevant: Generic technology/business article mentioning Apple.
+
+Query: "interest rates central bank decision"
+  - Relevant: Article about a central bank deciding/holding/changing interest rates.
+  - Not relevant: A generic economy article that does not substantially discuss the central bank interest-rate decision.
+
+WHAT TO DO:
+1. Open `manual_review_sample.csv`.
+2. For each row, read the `query` and `document_text`.
+3. Check the LLM's assigned `relevance` and `reason`.
+4. If you disagree with the LLM's label, mark it down.
+5. If the accuracy is sufficiently high across this stratified sample (which includes both low and high confidence cases), we will accept the LLM's labeling for all 511 documents.
+6. Do not run the evaluation metrics until this sample is verified.
