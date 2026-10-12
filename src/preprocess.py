@@ -24,6 +24,10 @@ except ImportError:
         "than", "too", "very", "s", "t", "can", "will", "just", "don", "should", "now"
     ])
 
+from nltk.stem import PorterStemmer
+
+STEMMER = PorterStemmer()
+
 def preprocess_text(text: str) -> str:
     """
     Standard preprocessing for both documents and queries:
@@ -32,6 +36,7 @@ def preprocess_text(text: str) -> str:
     3. Remove punctuation
     4. Tokenize
     5. Remove English stopwords
+    6. Porter Stemming
     """
     if not isinstance(text, str):
         return ""
@@ -45,8 +50,8 @@ def preprocess_text(text: str) -> str:
     # 2 & 4. Normalize whitespace and tokenize
     tokens = text.split()
     
-    # 5. Remove English stopwords
-    tokens = [t for t in tokens if t not in ENGLISH_STOP_WORDS]
+    # 5. Remove English stopwords & 6. Apply Porter Stemmer
+    tokens = [STEMMER.stem(t) for t in tokens if t not in ENGLISH_STOP_WORDS]
     
     return " ".join(tokens)
 

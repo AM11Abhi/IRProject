@@ -53,9 +53,11 @@ def process_judgments():
     if os.path.exists(AUDIT_PATH):
         print(f"Found existing audit file at {AUDIT_PATH}. Resuming from checkpoint...")
         audit_df = pd.read_csv(AUDIT_PATH)
-        judged_pairs = set(zip(audit_df['query_id'], audit_df['document_id']))
+        judged_dict = dict(zip(zip(audit_df['query_id'], audit_df['document_id']), audit_df['relevance']))
+        judged_pairs = set(judged_dict.keys())
         audit_records = audit_df.to_dict('records')
     else:
+        judged_dict = {}
         judged_pairs = set()
         audit_records = []
         
@@ -70,6 +72,7 @@ def process_judgments():
         doc_id = row['document_id']
         
         if (qid, doc_id) in judged_pairs:
+            judgments_df.at[idx, 'relevance'] = judged_dict[(qid, doc_id)]
             continue
             
         qtext = queries_dict.get(qid, "")
@@ -117,14 +120,14 @@ def process_judgments():
     # Final save
     pd.DataFrame(audit_records).to_csv(AUDIT_PATH, index=False)
     judgments_df.to_csv(RELEVANCE_JUDGMENTS_PATH, index=False)
-    print("\nAll 511 candidate pairs judged successfully!")
+    print(f"\nAll {len(judgments_df)} candidate pairs judged successfully!")
     
     # 10. Validation
     print("\n--- VALIDATION ---")
     final_audit = pd.read_csv(AUDIT_PATH)
     final_judgments = pd.read_csv(RELEVANCE_JUDGMENTS_PATH)
     
-    assert len(final_judgments) == 511, f"Expected 511 rows, got {len(final_judgments)}"
+    assert len(final_judgments) == total_pairs, f"Expected {total_pairs} rows, got {len(final_judgments)}"
     assert len(final_judgments['query_id'].unique()) == 25, "Expected 25 queries"
     assert not final_judgments[['query_id', 'document_id']].duplicated().any(), "Duplicate query-doc pairs found"
     assert final_judgments['relevance'].isin([0, 1, '0', '1', 0.0, 1.0]).all(), "Relevance must be strictly 0 or 1"

@@ -1,284 +1,284 @@
 query_id,document_id,relevance,confidence,reason
-q01,2304,0,0.0010703416774049401,Document lacks substantial semantic match to query.
-q01,1675,0,0.0015177620807662606,Document lacks substantial semantic match to query.
-q01,2320,0,0.00632980652153492,Document lacks substantial semantic match to query.
-q01,2210,0,0.00042268208926543593,Document lacks substantial semantic match to query.
-q01,2338,0,0.0006032658857293427,Document lacks substantial semantic match to query.
+q01,2304,0,0.0010703416774049,Document lacks substantial semantic match to query.
+q01,1675,0,0.0015177620807662,Document lacks substantial semantic match to query.
+q01,2320,0,0.0063298065215349,Document lacks substantial semantic match to query.
+q01,2210,0,0.0004226820892654,Document lacks substantial semantic match to query.
+q01,2338,0,0.0006032658857293,Document lacks substantial semantic match to query.
 q01,1836,0,6.443428719649091e-05,Document lacks substantial semantic match to query.
-q01,1727,0,0.34938839077949524,Document lacks substantial semantic match to query.
-q01,2240,0,0.0005712255951948464,Document lacks substantial semantic match to query.
-q01,2239,0,0.0014009864535182714,Document lacks substantial semantic match to query.
-q01,1859,0,0.00016490560665261,Document lacks substantial semantic match to query.
-q01,1861,0,0.033059217035770416,Document lacks substantial semantic match to query.
-q01,1743,0,0.0012692902237176895,Document lacks substantial semantic match to query.
+q01,1727,0,0.3493883907794952,Document lacks substantial semantic match to query.
+q01,2240,0,0.0005712255951948,Document lacks substantial semantic match to query.
+q01,2239,0,0.0014009864535182,Document lacks substantial semantic match to query.
+q01,1859,0,0.0001649056066526,Document lacks substantial semantic match to query.
+q01,1861,0,0.0330592170357704,Document lacks substantial semantic match to query.
+q01,1743,0,0.0012692902237176,Document lacks substantial semantic match to query.
 q01,1872,0,6.843095616204664e-05,Document lacks substantial semantic match to query.
-q01,2387,0,0.00010119302896782756,Document lacks substantial semantic match to query.
-q01,1751,0,0.00027785790734924376,Document lacks substantial semantic match to query.
-q01,1757,0,0.0003682384267449379,Document lacks substantial semantic match to query.
+q01,2387,0,0.0001011930289678,Document lacks substantial semantic match to query.
+q01,1751,0,0.0002778579073492,Document lacks substantial semantic match to query.
+q01,1757,0,0.0003682384267449,Document lacks substantial semantic match to query.
 q01,2398,0,0.4009499251842499,Document lacks substantial semantic match to query.
-q01,1759,0,0.0002553930680733174,Document lacks substantial semantic match to query.
+q01,1759,0,0.0002553930680733,Document lacks substantial semantic match to query.
 q01,1887,0,3.5067198041360825e-05,Document lacks substantial semantic match to query.
 q01,1780,0,6.681329250568524e-05,Document lacks substantial semantic match to query.
 q01,1781,0,3.131127232336439e-05,Document lacks substantial semantic match to query.
-q01,1909,0,0.0020562303252518177,Document lacks substantial semantic match to query.
-q02,1280,0,0.06647065281867981,Document lacks substantial semantic match to query.
+q01,1909,0,0.0020562303252518,Document lacks substantial semantic match to query.
+q02,1280,0,0.0664706528186798,Document lacks substantial semantic match to query.
 q02,705,0,0.3461412191390991,Document lacks substantial semantic match to query.
-q02,1378,0,0.0032757059670984745,Document lacks substantial semantic match to query.
-q02,419,0,0.06647065281867981,Document lacks substantial semantic match to query.
-q02,582,0,0.0018130247481167316,Document lacks substantial semantic match to query.
-q02,422,0,0.038475293666124344,Document lacks substantial semantic match to query.
-q02,1288,0,0.038475293666124344,Document lacks substantial semantic match to query.
+q02,1378,0,0.0032757059670984,Document lacks substantial semantic match to query.
+q02,419,0,0.0664706528186798,Document lacks substantial semantic match to query.
+q02,582,0,0.0018130247481167,Document lacks substantial semantic match to query.
+q02,422,0,0.0384752936661243,Document lacks substantial semantic match to query.
+q02,1288,0,0.0384752936661243,Document lacks substantial semantic match to query.
 q02,488,0,0.2998422384262085,Document lacks substantial semantic match to query.
 q02,490,0,0.2998422384262085,Document lacks substantial semantic match to query.
-q02,2221,0,0.00015759833331685513,Document lacks substantial semantic match to query.
-q02,462,0,0.06647065281867981,Document lacks substantial semantic match to query.
-q02,782,0,0.30205395817756653,Document lacks substantial semantic match to query.
-q02,560,0,0.0032757059670984745,Document lacks substantial semantic match to query.
-q02,693,0,0.021479474380612373,Document lacks substantial semantic match to query.
-q02,470,0,0.038475293666124344,Document lacks substantial semantic match to query.
+q02,2221,0,0.0001575983333168,Document lacks substantial semantic match to query.
+q02,462,0,0.0664706528186798,Document lacks substantial semantic match to query.
+q02,782,0,0.3020539581775665,Document lacks substantial semantic match to query.
+q02,560,0,0.0032757059670984,Document lacks substantial semantic match to query.
+q02,693,0,0.0214794743806123,Document lacks substantial semantic match to query.
+q02,470,0,0.0384752936661243,Document lacks substantial semantic match to query.
 q02,695,1,0.9761037230491638,Key match: 'apple sues to stop product leaks  computer firm apple has issued a lawsuit to prevent online leaks of information about future products  the lawsuit a...'
 q02,1306,0,0.2998422384262085,Document lacks substantial semantic match to query.
 q02,1308,0,0.2998422384262085,Document lacks substantial semantic match to query.
-q03,389,0,0.0012590356636792421,Document lacks substantial semantic match to query.
-q03,390,0,0.0001521813974250108,Document lacks substantial semantic match to query.
-q03,137,0,0.00239356467500329,Document lacks substantial semantic match to query.
-q03,394,0,0.00020819152996409684,Document lacks substantial semantic match to query.
+q03,389,0,0.0012590356636792,Document lacks substantial semantic match to query.
+q03,390,0,0.000152181397425,Document lacks substantial semantic match to query.
+q03,137,0,0.0023935646750032,Document lacks substantial semantic match to query.
+q03,394,0,0.000208191529964,Document lacks substantial semantic match to query.
 q03,9,0,6.711918831570074e-05,Document lacks substantial semantic match to query.
-q03,29,0,0.000967514468356967,Document lacks substantial semantic match to query.
-q03,1826,0,0.00012736931967083365,Document lacks substantial semantic match to query.
-q03,163,0,0.05262932926416397,Document lacks substantial semantic match to query.
-q03,1573,0,0.021532747894525528,Document lacks substantial semantic match to query.
-q03,1451,0,0.003203317755833268,Document lacks substantial semantic match to query.
-q03,1581,0,0.012027313001453876,Document lacks substantial semantic match to query.
+q03,29,0,0.0009675144683569,Document lacks substantial semantic match to query.
+q03,1826,0,0.0001273693196708,Document lacks substantial semantic match to query.
+q03,163,0,0.0526293292641639,Document lacks substantial semantic match to query.
+q03,1573,0,0.0215327478945255,Document lacks substantial semantic match to query.
+q03,1451,0,0.0032033177558332,Document lacks substantial semantic match to query.
+q03,1581,0,0.0120273130014538,Document lacks substantial semantic match to query.
 q03,1477,0,0.0387863963842392,Document lacks substantial semantic match to query.
-q03,1480,0,0.028522897511720657,Document lacks substantial semantic match to query.
-q03,1617,0,0.00013580758241005242,Document lacks substantial semantic match to query.
-q03,345,0,0.006828079931437969,Document lacks substantial semantic match to query.
-q03,2271,0,0.019884979352355003,Document lacks substantial semantic match to query.
-q03,358,0,0.005594281479716301,Document lacks substantial semantic match to query.
-q03,365,0,0.045052673667669296,Document lacks substantial semantic match to query.
-q03,1524,0,0.021958835422992706,Document lacks substantial semantic match to query.
-q03,373,0,0.013132828287780285,Document lacks substantial semantic match to query.
-q03,375,0,0.0003709282900672406,Document lacks substantial semantic match to query.
-q03,632,0,0.021958835422992706,Document lacks substantial semantic match to query.
-q03,638,0,0.44701650738716125,Document lacks substantial semantic match to query.
-q03,127,0,0.0013454323634505272,Document lacks substantial semantic match to query.
-q04,896,0,0.29000991582870483,Document lacks substantial semantic match to query.
-q04,899,0,0.29218724370002747,Document lacks substantial semantic match to query.
+q03,1480,0,0.0285228975117206,Document lacks substantial semantic match to query.
+q03,1617,0,0.00013580758241,Document lacks substantial semantic match to query.
+q03,345,0,0.0068280799314379,Document lacks substantial semantic match to query.
+q03,2271,0,0.019884979352355,Document lacks substantial semantic match to query.
+q03,358,0,0.0055942814797163,Document lacks substantial semantic match to query.
+q03,365,0,0.0450526736676692,Document lacks substantial semantic match to query.
+q03,1524,0,0.0219588354229927,Document lacks substantial semantic match to query.
+q03,373,0,0.0131328282877802,Document lacks substantial semantic match to query.
+q03,375,0,0.0003709282900672,Document lacks substantial semantic match to query.
+q03,632,0,0.0219588354229927,Document lacks substantial semantic match to query.
+q03,638,0,0.4470165073871612,Document lacks substantial semantic match to query.
+q03,127,0,0.0013454323634505,Document lacks substantial semantic match to query.
+q04,896,0,0.2900099158287048,Document lacks substantial semantic match to query.
+q04,899,0,0.2921872437000274,Document lacks substantial semantic match to query.
 q04,264,0,0.5463076233863831,Document lacks substantial semantic match to query.
-q04,267,0,0.29000991582870483,Document lacks substantial semantic match to query.
+q04,267,0,0.2900099158287048,Document lacks substantial semantic match to query.
 q04,1165,0,0.1991938054561615,Document lacks substantial semantic match to query.
-q04,1176,0,0.48700520396232605,Document lacks substantial semantic match to query.
+q04,1176,0,0.487005203962326,Document lacks substantial semantic match to query.
 q04,284,0,0.2750147879123688,Document lacks substantial semantic match to query.
-q04,1185,0,0.037866994738578796,Document lacks substantial semantic match to query.
-q04,931,0,0.11280807852745056,Document lacks substantial semantic match to query.
+q04,1185,0,0.0378669947385787,Document lacks substantial semantic match to query.
+q04,931,0,0.1128080785274505,Document lacks substantial semantic match to query.
 q04,941,0,0.2907877564430237,Document lacks substantial semantic match to query.
 q04,948,1,0.6041144728660583,Key match: 'blair pledges unity to labour mps  tony blair has sought to reassure labour backbenchers that nothing will stand in the way of the partys bid for a th...'
-q04,952,0,0.48700520396232605,Document lacks substantial semantic match to query.
+q04,952,0,0.487005203962326,Document lacks substantial semantic match to query.
 q04,955,1,0.8772633671760559,Key match: 'blair up for it ahead of poll  tony blair says his personal standing in the eyes of voters will be an issue in the general election  the prime ministe...'
-q04,838,0,0.03728986904025078,Document lacks substantial semantic match to query.
-q04,842,0,0.030050957575440407,Document lacks substantial semantic match to query.
-q04,987,0,0.40385523438453674,Document lacks substantial semantic match to query.
+q04,838,0,0.0372898690402507,Document lacks substantial semantic match to query.
+q04,842,0,0.0300509575754404,Document lacks substantial semantic match to query.
+q04,987,0,0.4038552343845367,Document lacks substantial semantic match to query.
 q04,991,0,0.3756517469882965,Document lacks substantial semantic match to query.
-q04,1000,1,0.9653652310371399,Key match: 'february poll claim speculation  reports that tony blair is planning a snap general election for february  have been described as idle speculation by ...'
+q04,1000,1,0.96536523103714,Key match: 'february poll claim speculation  reports that tony blair is planning a snap general election for february  have been described as idle speculation by ...'
 q04,233,1,0.7440875768661499,Key match: 'blair prepares to name poll date  tony blair is likely to name  may as election day when parliament returns from its easter break the bbcs political e...'
-q04,1003,0,0.052939753979444504,Document lacks substantial semantic match to query.
+q04,1003,0,0.0529397539794445,Document lacks substantial semantic match to query.
 q04,1138,1,0.8582823276519775,Key match: 'blair looks to election campaign  tony blairs big speech will be looked back on as the performance that kicked off the election campaign  that poll ma...'
 q04,250,0,0.5798279047012329,Document lacks substantial semantic match to query.
-q05,1025,1,0.9908959269523621,Key match: 'oscar nominee dan oherlihy dies  irish actor dan oherlihy who was nominated for best actor at the  oscars has died at the age of   oherlihy whose osca...'
+q05,1025,1,0.990895926952362,Key match: 'oscar nominee dan oherlihy dies  irish actor dan oherlihy who was nominated for best actor at the  oscars has died at the age of   oherlihy whose osca...'
 q05,2177,1,0.9589166641235352,Key match: 'aviator creator in oscars snub  the man who said he got oscarnominated movie the aviator off the ground and signed up leonardo dicaprio has been shut ...'
 q05,2053,1,0.9589166641235352,Key match: 'aviator creator in oscars snub  the man who said he got oscarnominated movie the aviator off the ground and signed up leonardo dicaprio has been shut ...'
-q05,2063,0,0.0017622109735384583,Document lacks substantial semantic match to query.
+q05,2063,0,0.0017622109735384,Document lacks substantial semantic match to query.
 q05,1042,1,0.957589328289032,Key match: 'oscars race enters final furlong  the race for the oscars entered its final stages as the deadline for voters to choose their winners passed  the  aca...'
 q05,1939,1,0.7383906245231628,Key match: 'brando rejected godfather role  late film star marlon brando is said to have repeatedly turned down his oscarwinning role in the godfather  the actors...'
 q05,2197,1,0.9011598825454712,Key match: 'ray dvd beats box office takings  oscarnominated film biopic ray has surpassed its us box office takings with a combined tally of m m from dvd and vid...'
-q05,1047,1,0.9814949035644531,Key match: 'arnold congratulated on oscar win  oscarwinner andrea arnold has been congratulated by the uk film council the organisation which partly funded her pr...'
+q05,1047,1,0.9814949035644532,Key match: 'arnold congratulated on oscar win  oscarwinner andrea arnold has been congratulated by the uk film council the organisation which partly funded her pr...'
 q05,2072,1,0.9865295886993408,Key match: 'aviator wins top globes accolades  the aviator has been named best film at the golden globe awards with its star leonardo dicaprio named best actor  h...'
 q05,1059,1,0.9801151752471924,Key match: 'hundreds vie for best film oscar  a total of  films are eligible for the best film oscar but only five will be chosen to go forward as nominees  the a...'
 q05,1065,1,0.98340904712677,Key match: 'oscar nominees gear up for lunch  leonardo dicaprio jamie foxx and hilary swank are among those due to attend this years oscar nominees luncheon on mo...'
-q05,1072,1,0.9859528541564941,Key match: 'hollywood ready for oscars night  hollywood is preparing for the biggest night in the film worlds calendar the th academy awards on sunday  a host of ...'
+q05,1072,1,0.985952854156494,Key match: 'hollywood ready for oscars night  hollywood is preparing for the biggest night in the film worlds calendar the th academy awards on sunday  a host of ...'
 q05,1073,1,0.996145486831665,Key match: 'foxx and swank take actors awards  jamie foxx and hilary swank have won the screen actors guild awards for best male and female film actors boosting t...'
 q05,1080,1,0.959519624710083,Key match: 'uk directors guild nominees named  martin scorsese and clint eastwood are among the nominees for the top prize at the directors guild of great britain...'
-q05,2110,1,0.9915571212768555,Key match: 'sideways dominates spirit awards  the comedy sideways has dominated this years independent spirit awards winning all six of the awards for which it wa...'
+q05,2110,1,0.9915571212768556,Key match: 'sideways dominates spirit awards  the comedy sideways has dominated this years independent spirit awards winning all six of the awards for which it wa...'
 q05,1093,1,0.9011598825454712,Key match: 'ray dvd beats box office takings  oscarnominated film biopic ray has surpassed its us box office takings with a combined tally of m m from dvd and vid...'
 q05,2120,1,0.9931040406227112,Key match: 'spirit awards hail sideways  the comedy sideways has dominated this years independent spirit awards winning all six of the awards for which it was nom...'
 q05,1096,1,0.661186695098877,Key match: 'oscar nominees lack pulling power  this years clutch of oscar nominees have been the least popular for  years according to box office figures  in the ...'
 q05,1115,1,0.944644033908844,Key match: 'wine comedy wins critics award  quirky comedy sideways was named the best film of the year by the los angeles film critics association  the us movie a...'
 q05,1122,0,0.2719167172908783,Document lacks substantial semantic match to query.
 q05,2020,0,0.5882074236869812,Document lacks substantial semantic match to query.
-q05,1130,1,0.9488013386726379,Key match: 'moreno debut makes oscar mark  catalina sandino moreno has joined a rare group of actresses who have been nominated for an oscar for starring in a for...'
+q05,1130,1,0.948801338672638,Key match: 'moreno debut makes oscar mark  catalina sandino moreno has joined a rare group of actresses who have been nominated for an oscar for starring in a for...'
 q05,2028,1,0.9899611473083496,Key match: 'eastwoods baby scoops top oscars  clint eastwoods million dollar baby beat martin scorseses the aviator to the top awards at the oscars on sunday  the...'
-q05,2042,0,0.20287907123565674,Document lacks substantial semantic match to query.
+q05,2042,0,0.2028790712356567,Document lacks substantial semantic match to query.
 q06,1152,0,1.8900313079939224e-05,Document lacks substantial semantic match to query.
-q06,1216,0,0.00010503330122446641,Document lacks substantial semantic match to query.
+q06,1216,0,0.0001050333012244,Document lacks substantial semantic match to query.
 q06,1794,0,3.189080598531291e-05,Document lacks substantial semantic match to query.
-q06,2371,0,0.0017752452986314893,Document lacks substantial semantic match to query.
+q06,2371,0,0.0017752452986314,Document lacks substantial semantic match to query.
 q06,2244,0,2.841291279764846e-05,Document lacks substantial semantic match to query.
 q06,1792,0,3.594617737689987e-05,Document lacks substantial semantic match to query.
-q06,2312,0,0.00014657978317700326,Document lacks substantial semantic match to query.
+q06,2312,0,0.000146579783177,Document lacks substantial semantic match to query.
 q06,232,0,3.2693689718144014e-05,Document lacks substantial semantic match to query.
-q06,238,0,0.004491231869906187,Document lacks substantial semantic match to query.
-q06,1907,0,0.0014459255617111921,Document lacks substantial semantic match to query.
+q06,238,0,0.0044912318699061,Document lacks substantial semantic match to query.
+q06,1907,0,0.0014459255617111,Document lacks substantial semantic match to query.
 q06,212,0,2.4781706088106148e-05,Document lacks substantial semantic match to query.
 q06,1715,0,8.424976840615273e-05,Document lacks substantial semantic match to query.
-q06,1813,0,0.0009481360903009772,Document lacks substantial semantic match to query.
-q06,828,0,3.7621339288307354e-05,Document lacks substantial semantic match to query.
+q06,1813,0,0.0009481360903009,Document lacks substantial semantic match to query.
+q06,828,0,3.762133928830736e-05,Document lacks substantial semantic match to query.
 q06,253,1,0.7426899671554565,Key match: 'msps hear renewed climate warning  climate change could be completely out of control within several decades the scottish environment protection agency...'
 q06,2303,0,8.573167724534869e-05,Document lacks substantial semantic match to query.
 q07,1676,0,2.798870082187932e-05,Document lacks substantial semantic match to query.
 q07,2322,0,2.5559542336850427e-05,Document lacks substantial semantic match to query.
-q07,1683,0,0.0003323652781546116,Document lacks substantial semantic match to query.
-q07,2073,0,0.0024882368743419647,Document lacks substantial semantic match to query.
+q07,1683,0,0.0003323652781546,Document lacks substantial semantic match to query.
+q07,2073,0,0.0024882368743419,Document lacks substantial semantic match to query.
 q07,799,0,6.301610847003758e-05,Document lacks substantial semantic match to query.
-q07,2212,0,0.00097756739705801,Document lacks substantial semantic match to query.
-q07,1828,0,0.00017389810818713158,Document lacks substantial semantic match to query.
+q07,2212,0,0.000977567397058,Document lacks substantial semantic match to query.
+q07,1828,0,0.0001738981081871,Document lacks substantial semantic match to query.
 q07,1703,0,3.0903236620360985e-05,Document lacks substantial semantic match to query.
-q07,1704,0,0.00013804424088448286,Document lacks substantial semantic match to query.
-q07,2217,0,0.0010286782635375857,Document lacks substantial semantic match to query.
-q07,1834,0,2.3965112632140517e-05,Document lacks substantial semantic match to query.
+q07,1704,0,0.0001380442408844,Document lacks substantial semantic match to query.
+q07,2217,0,0.0010286782635375,Document lacks substantial semantic match to query.
+q07,1834,0,2.396511263214052e-05,Document lacks substantial semantic match to query.
 q07,1202,0,1.4946789633540902e-05,Document lacks substantial semantic match to query.
 q07,824,0,4.637978054233827e-05,Document lacks substantial semantic match to query.
 q07,1211,0,7.918589835753664e-05,Document lacks substantial semantic match to query.
 q07,1723,0,1.9006267393706366e-05,Document lacks substantial semantic match to query.
 q07,1854,0,7.201146217994392e-05,Document lacks substantial semantic match to query.
-q07,2369,0,0.0021189898252487183,Document lacks substantial semantic match to query.
+q07,2369,0,0.0021189898252487,Document lacks substantial semantic match to query.
 q07,1751,0,3.2936939533101395e-05,Document lacks substantial semantic match to query.
 q07,1118,0,1.7499603927717544e-05,Document lacks substantial semantic match to query.
-q07,1633,0,0.00043212700984440744,Document lacks substantial semantic match to query.
+q07,1633,0,0.0004321270098444,Document lacks substantial semantic match to query.
 q07,615,0,4.637978054233827e-05,Document lacks substantial semantic match to query.
 q07,886,0,2.024483728746418e-05,Document lacks substantial semantic match to query.
 q08,1792,0,0.4136643707752228,Document lacks substantial semantic match to query.
-q08,1672,0,0.06380800902843475,Document lacks substantial semantic match to query.
+q08,1672,0,0.0638080090284347,Document lacks substantial semantic match to query.
 q08,1929,1,0.9180497527122498,Key match: 'us crude prices surge above   us crude prices have soared to fresh fourmonth highs above  in the us as refinery problems propelled petrol prices to an...'
-q08,1813,0,0.41577860713005066,Document lacks substantial semantic match to query.
+q08,1813,0,0.4157786071300506,Document lacks substantial semantic match to query.
 q08,1705,1,0.6809120178222656,Key match: 'weak data buffets french economy  a batch of downbeat government data has cast doubt over the french economys future prospects  official figures showe...'
-q08,1712,0,0.24680376052856445,Document lacks substantial semantic match to query.
+q08,1712,0,0.2468037605285644,Document lacks substantial semantic match to query.
 q08,1715,1,0.9616947174072266,Key match: 'soaring oil hits world economy  the soaring cost of oil has hit global economic growth although worlds major economies should weather the storm of pri...'
 q08,2359,0,0.2166832536458969,Document lacks substantial semantic match to query.
-q08,1868,0,0.21135418117046356,Document lacks substantial semantic match to query.
-q08,1869,0,0.00026528266607783735,Document lacks substantial semantic match to query.
-q08,1870,0,0.09726487100124359,Document lacks substantial semantic match to query.
-q08,1743,0,0.004271830897778273,Document lacks substantial semantic match to query.
+q08,1868,0,0.2113541811704635,Document lacks substantial semantic match to query.
+q08,1869,0,0.0002652826660778,Document lacks substantial semantic match to query.
+q08,1870,0,0.0972648710012435,Document lacks substantial semantic match to query.
+q08,1743,0,0.0042718308977782,Document lacks substantial semantic match to query.
 q08,1874,1,0.6532943248748779,Key match: 'economy stronger than forecast  the uk economy probably grew at a faster rate in the third quarter than the  reported according to bank of england dep...'
-q08,1752,0,0.0007094898028299212,Document lacks substantial semantic match to query.
+q08,1752,0,0.0007094898028299,Document lacks substantial semantic match to query.
 q08,2270,0,0.2650277614593506,Document lacks substantial semantic match to query.
-q08,1766,0,0.08538275212049484,Document lacks substantial semantic match to query.
-q08,1895,1,0.9601351618766785,Key match: 'strong demand triggers oil rally  crude oil prices surged back above the  a barrel mark on thursday after an energy market watchdog raised its forecas...'
-q08,2286,0,0.33020666241645813,Document lacks substantial semantic match to query.
+q08,1766,0,0.0853827521204948,Document lacks substantial semantic match to query.
+q08,1895,1,0.9601351618766784,Key match: 'strong demand triggers oil rally  crude oil prices surged back above the  a barrel mark on thursday after an energy market watchdog raised its forecas...'
+q08,2286,0,0.3302066624164581,Document lacks substantial semantic match to query.
 q08,1661,0,0.5667039752006531,Document lacks substantial semantic match to query.
-q09,738,0,0.05330038443207741,Document lacks substantial semantic match to query.
-q09,708,0,0.0013595868367701769,Document lacks substantial semantic match to query.
-q09,452,0,0.0002992087393067777,Document lacks substantial semantic match to query.
-q09,409,0,0.10662121325731277,Document lacks substantial semantic match to query.
+q09,738,0,0.0533003844320774,Document lacks substantial semantic match to query.
+q09,708,0,0.0013595868367701,Document lacks substantial semantic match to query.
+q09,452,0,0.0002992087393067,Document lacks substantial semantic match to query.
+q09,409,0,0.1066212132573127,Document lacks substantial semantic match to query.
 q09,907,0,2.8422262403182685e-05,Document lacks substantial semantic match to query.
 q09,554,1,0.6818711757659912,Key match: 'cyber criminals step up the pace  socalled phishing attacks that try to trick people into handing over confidential details have boomed in  say securi...'
-q09,525,1,0.9755721092224121,Key match: 'us cyber security chief resigns  the man making sure us computer networks are safe and secure has resigned after only a year in his post  amit yoran w...'
-q09,750,0,0.05330038443207741,Document lacks substantial semantic match to query.
-q09,1294,0,0.0004833862476516515,Document lacks substantial semantic match to query.
-q09,720,1,0.9496039748191833,Key match: 'have hackers recruited your pc  more than one million computers on the net have been hijacked to attack websites and pump out spam and viruses  the hu...'
-q09,786,1,0.9245637059211731,Key match: 'cyber crime booms in   the last  months have seen a dramatic growth in almost every security threat that plague windows pcs  the count of known viruse...'
-q09,1270,0,0.0002992087393067777,Document lacks substantial semantic match to query.
-q09,823,0,0.0005466004949994385,Document lacks substantial semantic match to query.
-q09,761,0,0.01472668256610632,Document lacks substantial semantic match to query.
+q09,525,1,0.975572109222412,Key match: 'us cyber security chief resigns  the man making sure us computer networks are safe and secure has resigned after only a year in his post  amit yoran w...'
+q09,750,0,0.0533003844320774,Document lacks substantial semantic match to query.
+q09,1294,0,0.0004833862476516,Document lacks substantial semantic match to query.
+q09,720,1,0.9496039748191832,Key match: 'have hackers recruited your pc  more than one million computers on the net have been hijacked to attack websites and pump out spam and viruses  the hu...'
+q09,786,1,0.9245637059211732,Key match: 'cyber crime booms in   the last  months have seen a dramatic growth in almost every security threat that plague windows pcs  the count of known viruse...'
+q09,1270,0,0.0002992087393067,Document lacks substantial semantic match to query.
+q09,823,0,0.0005466004949994,Document lacks substantial semantic match to query.
+q09,761,0,0.0147266825661063,Document lacks substantial semantic match to query.
 q09,1372,1,0.6818711757659912,Key match: 'cyber criminals step up the pace  socalled phishing attacks that try to trick people into handing over confidential details have boomed in  say securi...'
-q09,1343,1,0.9755721092224121,Key match: 'us cyber security chief resigns  the man making sure us computer networks are safe and secure has resigned after only a year in his post  amit yoran w...'
-q10,645,0,0.007481852546334267,Document lacks substantial semantic match to query.
-q10,1544,0,0.05329037830233574,Document lacks substantial semantic match to query.
-q10,1417,0,0.00385294109582901,Document lacks substantial semantic match to query.
-q10,403,0,0.0024306538980454206,Document lacks substantial semantic match to query.
-q10,1435,0,0.0006686399574391544,Document lacks substantial semantic match to query.
-q10,28,0,0.004209301900118589,Document lacks substantial semantic match to query.
-q10,1568,0,0.0006353398784995079,Document lacks substantial semantic match to query.
-q10,1441,0,0.0025235237553715706,Document lacks substantial semantic match to query.
-q10,160,0,0.00280671170912683,Document lacks substantial semantic match to query.
-q10,1573,0,0.005151540506631136,Document lacks substantial semantic match to query.
-q10,1449,0,0.01045495830476284,Document lacks substantial semantic match to query.
-q10,1579,0,0.050792399793863297,Document lacks substantial semantic match to query.
-q10,173,0,0.0009594684233888984,Document lacks substantial semantic match to query.
-q10,1602,0,0.007658456452190876,Document lacks substantial semantic match to query.
-q10,80,0,0.00404104171320796,Document lacks substantial semantic match to query.
-q10,1236,0,0.00385294109582901,Document lacks substantial semantic match to query.
-q10,341,0,0.05822543427348137,Document lacks substantial semantic match to query.
-q10,1494,0,0.008433440700173378,Document lacks substantial semantic match to query.
-q10,344,0,0.01953480951488018,Document lacks substantial semantic match to query.
-q10,345,0,0.0009072592365555465,Document lacks substantial semantic match to query.
-q10,347,0,0.005644962191581726,Document lacks substantial semantic match to query.
-q10,1516,0,0.0011297388700768352,Document lacks substantial semantic match to query.
-q11,288,0,0.0031428299844264984,Document lacks substantial semantic match to query.
+q09,1343,1,0.975572109222412,Key match: 'us cyber security chief resigns  the man making sure us computer networks are safe and secure has resigned after only a year in his post  amit yoran w...'
+q10,645,0,0.0074818525463342,Document lacks substantial semantic match to query.
+q10,1544,0,0.0532903783023357,Document lacks substantial semantic match to query.
+q10,1417,0,0.003852941095829,Document lacks substantial semantic match to query.
+q10,403,0,0.0024306538980454,Document lacks substantial semantic match to query.
+q10,1435,0,0.0006686399574391,Document lacks substantial semantic match to query.
+q10,28,0,0.0042093019001185,Document lacks substantial semantic match to query.
+q10,1568,0,0.0006353398784995,Document lacks substantial semantic match to query.
+q10,1441,0,0.0025235237553715,Document lacks substantial semantic match to query.
+q10,160,0,0.0028067117091268,Document lacks substantial semantic match to query.
+q10,1573,0,0.0051515405066311,Document lacks substantial semantic match to query.
+q10,1449,0,0.0104549583047628,Document lacks substantial semantic match to query.
+q10,1579,0,0.0507923997938632,Document lacks substantial semantic match to query.
+q10,173,0,0.0009594684233888,Document lacks substantial semantic match to query.
+q10,1602,0,0.0076584564521908,Document lacks substantial semantic match to query.
+q10,80,0,0.0040410417132079,Document lacks substantial semantic match to query.
+q10,1236,0,0.003852941095829,Document lacks substantial semantic match to query.
+q10,341,0,0.0582254342734813,Document lacks substantial semantic match to query.
+q10,1494,0,0.0084334407001733,Document lacks substantial semantic match to query.
+q10,344,0,0.0195348095148801,Document lacks substantial semantic match to query.
+q10,345,0,0.0009072592365555,Document lacks substantial semantic match to query.
+q10,347,0,0.0056449621915817,Document lacks substantial semantic match to query.
+q10,1516,0,0.0011297388700768,Document lacks substantial semantic match to query.
+q11,288,0,0.0031428299844264,Document lacks substantial semantic match to query.
 q11,2401,0,0.2667068839073181,Document lacks substantial semantic match to query.
 q11,1219,0,0.509637713432312,Document lacks substantial semantic match to query.
-q11,227,0,0.09209068864583969,Document lacks substantial semantic match to query.
-q11,903,0,0.24372412264347076,Document lacks substantial semantic match to query.
-q11,839,0,0.20215968787670135,Document lacks substantial semantic match to query.
-q11,841,0,0.013978280127048492,Document lacks substantial semantic match to query.
-q11,939,0,0.047865550965070724,Document lacks substantial semantic match to query.
-q11,1900,0,0.05857504904270172,Document lacks substantial semantic match to query.
-q11,846,0,0.0017933701165020466,Document lacks substantial semantic match to query.
-q11,1685,0,0.06303489953279495,Document lacks substantial semantic match to query.
-q11,918,0,0.06495200097560883,Document lacks substantial semantic match to query.
-q11,214,0,0.27693432569503784,Document lacks substantial semantic match to query.
-q11,2360,0,0.06888546794652939,Document lacks substantial semantic match to query.
-q11,917,0,0.018001237884163857,Document lacks substantial semantic match to query.
-q11,2362,0,0.016025613993406296,Document lacks substantial semantic match to query.
+q11,227,0,0.0920906886458396,Document lacks substantial semantic match to query.
+q11,903,0,0.2437241226434707,Document lacks substantial semantic match to query.
+q11,839,0,0.2021596878767013,Document lacks substantial semantic match to query.
+q11,841,0,0.0139782801270484,Document lacks substantial semantic match to query.
+q11,939,0,0.0478655509650707,Document lacks substantial semantic match to query.
+q11,1900,0,0.0585750490427017,Document lacks substantial semantic match to query.
+q11,846,0,0.001793370116502,Document lacks substantial semantic match to query.
+q11,1685,0,0.0630348995327949,Document lacks substantial semantic match to query.
+q11,918,0,0.0649520009756088,Document lacks substantial semantic match to query.
+q11,214,0,0.2769343256950378,Document lacks substantial semantic match to query.
+q11,2360,0,0.0688854679465293,Document lacks substantial semantic match to query.
+q11,917,0,0.0180012378841638,Document lacks substantial semantic match to query.
+q11,2362,0,0.0160256139934062,Document lacks substantial semantic match to query.
 q11,2238,1,0.8677108883857727,Key match: 'sa unveils more for all budget  the south african government has put tax cuts and increased social spending at the centre of its latest budget  aiming...'
-q11,286,0,0.40267330408096313,Document lacks substantial semantic match to query.
-q12,772,0,0.018799377605319023,Document lacks substantial semantic match to query.
+q11,286,0,0.4026733040809631,Document lacks substantial semantic match to query.
+q12,772,0,0.018799377605319,Document lacks substantial semantic match to query.
 q12,1284,0,0.0909947007894516,Document lacks substantial semantic match to query.
 q12,399,0,0.5607050061225891,Document lacks substantial semantic match to query.
-q12,784,0,0.05629488453269005,Document lacks substantial semantic match to query.
-q12,1297,0,0.00042595132254064083,Document lacks substantial semantic match to query.
-q12,787,0,0.00030042813159525394,Document lacks substantial semantic match to query.
-q12,535,0,0.009248471818864346,Document lacks substantial semantic match to query.
-q12,1303,0,0.03923003375530243,Document lacks substantial semantic match to query.
-q12,670,0,0.0027469913475215435,Document lacks substantial semantic match to query.
-q12,555,0,0.005606049671769142,Document lacks substantial semantic match to query.
-q12,432,0,0.009683779440820217,Document lacks substantial semantic match to query.
-q12,821,0,0.06734659522771835,Document lacks substantial semantic match to query.
-q12,1353,0,0.009248471818864346,Document lacks substantial semantic match to query.
+q12,784,0,0.05629488453269,Document lacks substantial semantic match to query.
+q12,1297,0,0.0004259513225406,Document lacks substantial semantic match to query.
+q12,787,0,0.0003004281315952,Document lacks substantial semantic match to query.
+q12,535,0,0.0092484718188643,Document lacks substantial semantic match to query.
+q12,1303,0,0.0392300337553024,Document lacks substantial semantic match to query.
+q12,670,0,0.0027469913475215,Document lacks substantial semantic match to query.
+q12,555,0,0.0056060496717691,Document lacks substantial semantic match to query.
+q12,432,0,0.0096837794408202,Document lacks substantial semantic match to query.
+q12,821,0,0.0673465952277183,Document lacks substantial semantic match to query.
+q12,1353,0,0.0092484718188643,Document lacks substantial semantic match to query.
 q12,466,0,0.0909947007894516,Document lacks substantial semantic match to query.
-q12,603,0,0.08691879361867905,Document lacks substantial semantic match to query.
-q12,1373,0,0.005606049671769142,Document lacks substantial semantic match to query.
-q12,479,0,0.00042595132254064083,Document lacks substantial semantic match to query.
-q12,607,0,0.0003002961166203022,Document lacks substantial semantic match to query.
-q12,1250,0,0.009683779440820217,Document lacks substantial semantic match to query.
-q12,485,0,0.03923003375530243,Document lacks substantial semantic match to query.
-q12,619,0,0.009683779440820217,Document lacks substantial semantic match to query.
-q13,776,0,0.000146239428431727,Document lacks substantial semantic match to query.
-q13,779,0,0.08787510544061661,Document lacks substantial semantic match to query.
-q13,1422,0,0.0033821561373770237,Document lacks substantial semantic match to query.
-q13,1295,0,0.0008407951681874692,Document lacks substantial semantic match to query.
-q13,536,0,0.12231141328811646,Document lacks substantial semantic match to query.
-q13,412,0,0.0001659509289311245,Document lacks substantial semantic match to query.
-q13,540,0,0.0008407951681874692,Document lacks substantial semantic match to query.
-q13,798,0,0.08787510544061661,Document lacks substantial semantic match to query.
-q13,673,0,0.007163613103330135,Document lacks substantial semantic match to query.
-q13,685,0,0.0006114024436101317,Document lacks substantial semantic match to query.
-q13,687,0,0.010841548442840576,Document lacks substantial semantic match to query.
-q13,585,0,0.010841548442840576,Document lacks substantial semantic match to query.
-q13,586,0,0.00010541730443947017,Document lacks substantial semantic match to query.
-q13,1354,0,0.12231141328811646,Document lacks substantial semantic match to query.
-q13,723,0,0.09767084568738937,Document lacks substantial semantic match to query.
-q13,727,0,0.12555687129497528,Document lacks substantial semantic match to query.
-q13,729,0,0.0033821561373770237,Document lacks substantial semantic match to query.
-q13,1241,0,0.0033821561373770237,Document lacks substantial semantic match to query.
-q13,730,0,0.00046400289284065366,Document lacks substantial semantic match to query.
-q13,477,0,0.0008407951681874692,Document lacks substantial semantic match to query.
-q13,737,0,0.0006598224863409996,Document lacks substantial semantic match to query.
-q13,613,0,0.028625382110476494,Document lacks substantial semantic match to query.
-q13,2279,0,5.2721261454280466e-05,Document lacks substantial semantic match to query.
-q13,1403,0,0.010841548442840576,Document lacks substantial semantic match to query.
-q13,1404,0,0.00010541730443947017,Document lacks substantial semantic match to query.
+q12,603,0,0.086918793618679,Document lacks substantial semantic match to query.
+q12,1373,0,0.0056060496717691,Document lacks substantial semantic match to query.
+q12,479,0,0.0004259513225406,Document lacks substantial semantic match to query.
+q12,607,0,0.0003002961166203,Document lacks substantial semantic match to query.
+q12,1250,0,0.0096837794408202,Document lacks substantial semantic match to query.
+q12,485,0,0.0392300337553024,Document lacks substantial semantic match to query.
+q12,619,0,0.0096837794408202,Document lacks substantial semantic match to query.
+q13,776,0,0.0001462394284317,Document lacks substantial semantic match to query.
+q13,779,0,0.0878751054406166,Document lacks substantial semantic match to query.
+q13,1422,0,0.003382156137377,Document lacks substantial semantic match to query.
+q13,1295,0,0.0008407951681874,Document lacks substantial semantic match to query.
+q13,536,0,0.1223114132881164,Document lacks substantial semantic match to query.
+q13,412,0,0.0001659509289311,Document lacks substantial semantic match to query.
+q13,540,0,0.0008407951681874,Document lacks substantial semantic match to query.
+q13,798,0,0.0878751054406166,Document lacks substantial semantic match to query.
+q13,673,0,0.0071636131033301,Document lacks substantial semantic match to query.
+q13,685,0,0.0006114024436101,Document lacks substantial semantic match to query.
+q13,687,0,0.0108415484428405,Document lacks substantial semantic match to query.
+q13,585,0,0.0108415484428405,Document lacks substantial semantic match to query.
+q13,586,0,0.0001054173044394,Document lacks substantial semantic match to query.
+q13,1354,0,0.1223114132881164,Document lacks substantial semantic match to query.
+q13,723,0,0.0976708456873893,Document lacks substantial semantic match to query.
+q13,727,0,0.1255568712949752,Document lacks substantial semantic match to query.
+q13,729,0,0.003382156137377,Document lacks substantial semantic match to query.
+q13,1241,0,0.003382156137377,Document lacks substantial semantic match to query.
+q13,730,0,0.0004640028928406,Document lacks substantial semantic match to query.
+q13,477,0,0.0008407951681874,Document lacks substantial semantic match to query.
+q13,737,0,0.0006598224863409,Document lacks substantial semantic match to query.
+q13,613,0,0.0286253821104764,Document lacks substantial semantic match to query.
+q13,2279,0,5.272126145428047e-05,Document lacks substantial semantic match to query.
+q13,1403,0,0.0108415484428405,Document lacks substantial semantic match to query.
+q13,1404,0,0.0001054173044394,Document lacks substantial semantic match to query.
 q14,771,0,0.4168662428855896,Document lacks substantial semantic match to query.
 q14,402,1,0.997492790222168,Key match: 'whats next for nextgen consoles  the next generation of video games consoles are in development but what will the new machines mean for games firms an...'
 q14,1307,1,0.8671993017196655,Key match: 'playstation  chip to be unveiled  details of the chip designed to power sonys playstation  console will be released in san francisco on monday  sony i...'
 q14,411,0,0.377277672290802,Document lacks substantial semantic match to query.
-q14,414,0,0.0003287816944066435,Document lacks substantial semantic match to query.
-q14,417,1,0.9820143580436707,Key match: 'gamers snap up new sony psp  gamers have bought almost all of the first batch of sonys new playstation portable psp games console which went on sale i...'
+q14,414,0,0.0003287816944066,Document lacks substantial semantic match to query.
+q14,417,1,0.9820143580436708,Key match: 'gamers snap up new sony psp  gamers have bought almost all of the first batch of sonys new playstation portable psp games console which went on sale i...'
 q14,418,1,0.9914551973342896,Key match: 'new consoles promise big problems  making games for future consoles will require more graphic artists and more money an industry conference has been t...'
 q14,1314,1,0.996148943901062,Key match: 'games firms face tough future  uk video game firms face a testing time as they prepare for the next round of games consoles the industry warns  fred h...'
-q14,811,0,0.007565639913082123,Document lacks substantial semantic match to query.
+q14,811,0,0.0075656399130821,Document lacks substantial semantic match to query.
 q14,1327,0,0.4229394495487213,Document lacks substantial semantic match to query.
-q14,820,0,0.07426778972148895,Document lacks substantial semantic match to query.
+q14,820,0,0.0742677897214889,Document lacks substantial semantic match to query.
 q14,1333,0,0.4168662428855896,Document lacks substantial semantic match to query.
 q14,577,1,0.9707322716712952,Key match: 'nintendo handheld given euro date  nintendos new handheld console the ds will launch in europe on  march the company has announced  the portable games...'
 q14,580,1,0.7922740578651428,Key match: 'nintendo adds media playing to ds  nintendo is releasing an adapter for its ds handheld console so it can play music and video  the addon for the ds m...'
@@ -290,91 +290,91 @@ q14,753,1,0.7323653697967529,Key match: 'slim playstation triples sales  sony pl
 q14,1395,1,0.9707322716712952,Key match: 'nintendo handheld given euro date  nintendos new handheld console the ds will launch in europe on  march the company has announced  the portable games...'
 q14,1398,1,0.7922740578651428,Key match: 'nintendo adds media playing to ds  nintendo is releasing an adapter for its ds handheld console so it can play music and video  the addon for the ds m...'
 q14,509,0,0.4229394495487213,Document lacks substantial semantic match to query.
-q15,1033,0,0.0016331016086041927,Document lacks substantial semantic match to query.
+q15,1033,0,0.0016331016086041,Document lacks substantial semantic match to query.
 q15,2186,0,0.1882738620042801,Document lacks substantial semantic match to query.
-q15,2190,0,0.00033494242234155536,Document lacks substantial semantic match to query.
-q15,1944,0,0.0033566548954695463,Document lacks substantial semantic match to query.
-q15,1945,0,0.0015790925826877356,Document lacks substantial semantic match to query.
+q15,2190,0,0.0003349424223415,Document lacks substantial semantic match to query.
+q15,1944,0,0.0033566548954695,Document lacks substantial semantic match to query.
+q15,1945,0,0.0015790925826877,Document lacks substantial semantic match to query.
 q15,2208,0,0.1188102513551712,Document lacks substantial semantic match to query.
 q15,2083,1,0.7289832234382629,Key match: 'help for indies in download sales  a campaign has been launched to help independent labels get their music online and benefit from the growing trend f...'
-q15,1957,0,0.001695522340014577,Document lacks substantial semantic match to query.
+q15,1957,0,0.0016955223400145,Document lacks substantial semantic match to query.
 q15,2346,0,0.5976343154907227,Document lacks substantial semantic match to query.
-q15,1965,0,0.012025244534015656,Document lacks substantial semantic match to query.
+q15,1965,0,0.0120252445340156,Document lacks substantial semantic match to query.
 q15,2095,1,0.974819540977478,Key match: 'downloads enter us singles chart  digital music downloads are being included in the main us singles chart for the first time  billboards hot  chart no...'
 q15,2100,0,0.1188102513551712,Document lacks substantial semantic match to query.
 q15,2236,0,2.591488737380132e-05,Document lacks substantial semantic match to query.
-q15,1857,0,2.7921600121771917e-05,Document lacks substantial semantic match to query.
-q15,2123,0,0.06354542821645737,Document lacks substantial semantic match to query.
+q15,1857,0,2.792160012177192e-05,Document lacks substantial semantic match to query.
+q15,2123,0,0.0635454282164573,Document lacks substantial semantic match to query.
 q15,2127,1,0.974819540977478,Key match: 'downloads enter us singles chart  digital music downloads are being included in the main us singles chart for the first time  billboards hot  chart no...'
-q15,2000,0,0.045459289103746414,Document lacks substantial semantic match to query.
+q15,2000,0,0.0454592891037464,Document lacks substantial semantic match to query.
 q15,2264,0,2.193923864979297e-05,Document lacks substantial semantic match to query.
-q15,2009,0,0.0016331016086041927,Document lacks substantial semantic match to query.
-q15,1118,0,0.028834031894803047,Document lacks substantial semantic match to query.
-q15,2148,1,0.9116750359535217,Key match: 'uk worlds biggest music buyer  uk consumers are the biggest music buyers in the world according to new figures released on tuesday by the british phon...'
-q15,2155,0,0.03864893689751625,Document lacks substantial semantic match to query.
-q15,2035,0,0.0007278172997757792,Document lacks substantial semantic match to query.
-q16,1760,0,0.09704655408859253,Document lacks substantial semantic match to query.
-q16,1697,0,0.10630876570940018,Document lacks substantial semantic match to query.
+q15,2009,0,0.0016331016086041,Document lacks substantial semantic match to query.
+q15,1118,0,0.028834031894803,Document lacks substantial semantic match to query.
+q15,2148,1,0.9116750359535216,Key match: 'uk worlds biggest music buyer  uk consumers are the biggest music buyers in the world according to new figures released on tuesday by the british phon...'
+q15,2155,0,0.0386489368975162,Document lacks substantial semantic match to query.
+q15,2035,0,0.0007278172997757,Document lacks substantial semantic match to query.
+q16,1760,0,0.0970465540885925,Document lacks substantial semantic match to query.
+q16,1697,0,0.1063087657094001,Document lacks substantial semantic match to query.
 q16,2400,1,0.7480065822601318,Key match: 'economy strong in election year  uk businesses are set to prosper during the next few months  but this could trigger more interest rate rises accordin...'
-q16,2274,0,0.06438683718442917,Document lacks substantial semantic match to query.
+q16,2274,0,0.0643868371844291,Document lacks substantial semantic match to query.
 q16,1700,1,0.7480065822601318,Key match: 'economy strong in election year  uk businesses are set to prosper during the next few months  but this could trigger more interest rate rises accordin...'
 q16,965,0,0.1936418116092682,Document lacks substantial semantic match to query.
-q16,1797,0,0.0022207500878721476,Document lacks substantial semantic match to query.
+q16,1797,0,0.0022207500878721,Document lacks substantial semantic match to query.
 q16,1699,1,0.806179404258728,Key match: 'fed warns of more us rate rises  the us looks set for a continued boost to interest rates in  according to the federal reserve  minutes of the decembe...'
-q16,2374,0,0.0009869735222309828,Document lacks substantial semantic match to query.
-q16,1642,1,0.9773069024085999,Key match: 'us interest rate rise expected  us interest rates are expected to rise for the fifth time since june following the us federal reserves latest ratesett...'
+q16,2374,0,0.0009869735222309,Document lacks substantial semantic match to query.
+q16,1642,1,0.9773069024086,Key match: 'us interest rate rise expected  us interest rates are expected to rise for the fifth time since june following the us federal reserves latest ratesett...'
 q16,2251,0,0.5376085042953491,Document lacks substantial semantic match to query.
 q16,1853,1,0.8130843043327332,Key match: 'us data sparks inflation worries  wholesale prices in the us rose at the fastest rate in more than six years in january according to government data  ...'
-q16,2285,0,0.23983359336853027,Document lacks substantial semantic match to query.
+q16,2285,0,0.2398335933685302,Document lacks substantial semantic match to query.
 q16,1678,1,0.8747463226318359,Key match: 'us interest rates increased to   us interest rates are to rise for the fourth time in five months in a widely anticipated move  the federal reserve ha...'
-q16,2254,0,0.001715984777547419,Document lacks substantial semantic match to query.
-q16,2220,0,0.014157464727759361,Document lacks substantial semantic match to query.
+q16,2254,0,0.0017159847775474,Document lacks substantial semantic match to query.
+q16,2220,0,0.0141574647277593,Document lacks substantial semantic match to query.
 q16,1719,1,0.7525990009307861,Key match: 'bank opts to leave rates on hold  the bank of england has left interest rates on hold at  for a sixth month in a row  the banks monetary policy commit...'
 q16,1629,1,0.7326620817184448,Key match: 'uk house prices dip in november  uk house prices dipped slightly in november the office of the deputy prime minister odpm has said  the average house ...'
-q17,1183,0,0.06907214224338531,Document lacks substantial semantic match to query.
-q17,994,0,0.0002577470149844885,Document lacks substantial semantic match to query.
+q17,1183,0,0.0690721422433853,Document lacks substantial semantic match to query.
+q17,994,0,0.0002577470149844,Document lacks substantial semantic match to query.
 q17,223,0,2.5159348297165707e-05,Document lacks substantial semantic match to query.
 q17,292,0,1.8714159523369744e-05,Document lacks substantial semantic match to query.
 q17,995,0,4.931050352752209e-05,Document lacks substantial semantic match to query.
 q17,999,0,1.211782728205435e-05,Document lacks substantial semantic match to query.
-q17,1900,0,1.1953533430641983e-05,Document lacks substantial semantic match to query.
+q17,1900,0,1.1953533430641984e-05,Document lacks substantial semantic match to query.
 q17,943,0,2.117755684594158e-05,Document lacks substantial semantic match to query.
-q17,1203,0,0.0006016693077981472,Document lacks substantial semantic match to query.
+q17,1203,0,0.0006016693077981,Document lacks substantial semantic match to query.
 q17,307,0,3.012423258041963e-05,Document lacks substantial semantic match to query.
-q17,277,0,0.00014403335808310658,Document lacks substantial semantic match to query.
+q17,277,0,0.0001440333580831,Document lacks substantial semantic match to query.
 q17,1173,0,6.262062379391864e-05,Document lacks substantial semantic match to query.
-q17,883,0,2.0301058611948974e-05,Document lacks substantial semantic match to query.
-q17,1016,0,0.008621137589216232,Document lacks substantial semantic match to query.
+q17,883,0,2.030105861194897e-05,Document lacks substantial semantic match to query.
+q17,1016,0,0.0086211375892162,Document lacks substantial semantic match to query.
 q17,1119,0,1.2521824828581885e-05,Document lacks substantial semantic match to query.
-q17,287,0,0.00017717084847390652,Document lacks substantial semantic match to query.
-q18,644,0,0.00010188814485445619,Document lacks substantial semantic match to query.
-q18,2316,0,0.0005349330021999776,Document lacks substantial semantic match to query.
-q18,1020,0,0.0029553850181400776,Document lacks substantial semantic match to query.
+q17,287,0,0.0001771708484739,Document lacks substantial semantic match to query.
+q18,644,0,0.0001018881448544,Document lacks substantial semantic match to query.
+q18,2316,0,0.0005349330021999,Document lacks substantial semantic match to query.
+q18,1020,0,0.00295538501814,Document lacks substantial semantic match to query.
 q18,273,0,3.526553700794466e-05,Document lacks substantial semantic match to query.
 q18,672,0,7.033182919258252e-05,Document lacks substantial semantic match to query.
-q18,1959,0,0.0004989330773241818,Document lacks substantial semantic match to query.
-q18,1066,0,0.00018854578956961632,Document lacks substantial semantic match to query.
+q18,1959,0,0.0004989330773241,Document lacks substantial semantic match to query.
+q18,1066,0,0.0001885457895696,Document lacks substantial semantic match to query.
 q18,1198,0,4.082635496160947e-05,Document lacks substantial semantic match to query.
-q18,2097,0,0.011883053928613663,Document lacks substantial semantic match to query.
-q18,950,0,0.000847009418066591,Document lacks substantial semantic match to query.
-q18,311,0,0.00017164535529445857,Document lacks substantial semantic match to query.
-q18,442,0,0.00012770851026289165,Document lacks substantial semantic match to query.
+q18,2097,0,0.0118830539286136,Document lacks substantial semantic match to query.
+q18,950,0,0.0008470094180665,Document lacks substantial semantic match to query.
+q18,311,0,0.0001716453552944,Document lacks substantial semantic match to query.
+q18,442,0,0.0001277085102628,Document lacks substantial semantic match to query.
 q18,2366,0,1.5268440620275214e-05,Document lacks substantial semantic match to query.
-q18,1218,0,0.09902767837047577,Document lacks substantial semantic match to query.
+q18,1218,0,0.0990276783704757,Document lacks substantial semantic match to query.
 q18,1222,0,5.54527978238184e-05,Document lacks substantial semantic match to query.
-q18,1224,0,0.0003273476904723793,Document lacks substantial semantic match to query.
-q18,458,0,0.007080798968672752,Document lacks substantial semantic match to query.
+q18,1224,0,0.0003273476904723,Document lacks substantial semantic match to query.
+q18,458,0,0.0070807989686727,Document lacks substantial semantic match to query.
 q18,1744,0,6.86973289703019e-05,Document lacks substantial semantic match to query.
 q18,983,0,9.482506720814854e-05,Document lacks substantial semantic match to query.
-q18,230,0,0.0008987684268504381,Document lacks substantial semantic match to query.
+q18,230,0,0.0008987684268504,Document lacks substantial semantic match to query.
 q18,2152,0,4.277258994989097e-05,Document lacks substantial semantic match to query.
-q18,1002,0,0.0005280835903249681,Document lacks substantial semantic match to query.
-q18,1131,0,0.0015431928914040327,Document lacks substantial semantic match to query.
-q18,1260,0,0.00012770851026289165,Document lacks substantial semantic match to query.
-q18,1276,0,0.007080798968672752,Document lacks substantial semantic match to query.
+q18,1002,0,0.0005280835903249,Document lacks substantial semantic match to query.
+q18,1131,0,0.001543192891404,Document lacks substantial semantic match to query.
+q18,1260,0,0.0001277085102628,Document lacks substantial semantic match to query.
+q18,1276,0,0.0070807989686727,Document lacks substantial semantic match to query.
 q18,1917,0,6.735070928698406e-05,Document lacks substantial semantic match to query.
 q19,1544,1,0.9784579873085022,Key match: 'dementieva prevails in hong kong  elena dementieva swept aside defending champion venus williams   to win hong kongs champions challenge event  the ru...'
-q19,148,0,0.07494693249464035,Document lacks substantial semantic match to query.
+q19,148,0,0.0749469324946403,Document lacks substantial semantic match to query.
 q19,664,0,0.4668377637863159,Document lacks substantial semantic match to query.
 q19,157,0,0.1862652599811554,Document lacks substantial semantic match to query.
 q19,1441,0,3.0747112759854645e-05,Document lacks substantial semantic match to query.
@@ -383,130 +383,307 @@ q19,1455,1,0.723293125629425,Key match: 'navratilova hits out at critics  martin
 q19,1458,1,0.6542775630950928,Key match: 'wood  ireland can win grand slam  former captain keith wood believes ireland can win only their second grand slam  and first since   in this years rbs...'
 q19,63,1,0.6056042313575745,Key match: 'faultless federer has no equal  roger federer  nice bloke fantastic tennis player  the ultimate sportsman  when lleyton hewitt shook his hand after ge...'
 q19,64,1,0.9649677276611328,Key match: 'serena ends sania mirzas dream  sania mirza the first indian woman to reach the third round of a grand slam tennis event has lost to womens favourite ...'
-q19,191,0,0.01020724792033434,Document lacks substantial semantic match to query.
+q19,191,0,0.0102072479203343,Document lacks substantial semantic match to query.
 q19,68,1,0.619630753993988,Key match: 'mirza makes indian tennis history  teenager sania mirza completed a superb week at the hyderabad open by becoming the first indian in history to win a...'
 q19,1487,1,0.9957872033119202,Key match: 'prodigy monfils blows away gaudio  french prodigy gael monfils underlined his huge promise by beating french open champion gaston gaudio    in the fir...'
-q19,341,0,0.017728805541992188,Document lacks substantial semantic match to query.
+q19,341,0,0.0177288055419921,Document lacks substantial semantic match to query.
 q19,1494,0,0.2807338237762451,Document lacks substantial semantic match to query.
 q19,1497,0,0.5237983465194702,Document lacks substantial semantic match to query.
 q19,357,0,0.4005911946296692,Document lacks substantial semantic match to query.
-q19,106,0,0.001602480188012123,Document lacks substantial semantic match to query.
-q19,1522,1,0.9475929141044617,Key match: 'serena becomes world number two  serena williams has moved up five places to second in the world rankings after her australian open win  williams won ...'
+q19,106,0,0.0016024801880121,Document lacks substantial semantic match to query.
+q19,1522,1,0.9475929141044616,Key match: 'serena becomes world number two  serena williams has moved up five places to second in the world rankings after her australian open win  williams won ...'
 q19,633,1,0.9197131395339966,Key match: 'federer joins alltime greats  the last year has seen one player dominate mens tennis and one country dominate the womens game  roger federer became th...'
-q20,1540,0,0.005351445637643337,Document lacks substantial semantic match to query.
-q20,647,0,0.020577548071742058,Document lacks substantial semantic match to query.
+q20,1540,0,0.0053514456376433,Document lacks substantial semantic match to query.
+q20,647,0,0.020577548071742,Document lacks substantial semantic match to query.
 q20,650,0,0.2903420627117157,Document lacks substantial semantic match to query.
 q20,397,1,0.8965707421302795,Key match: 'johnson announces june retirement  former england captain martin johnson has announced he is to retire from rugby union at the end of the season  john...'
-q20,148,0,0.13434424996376038,Document lacks substantial semantic match to query.
-q20,149,0,0.10940780490636826,Document lacks substantial semantic match to query.
+q20,148,0,0.1343442499637603,Document lacks substantial semantic match to query.
+q20,149,0,0.1094078049063682,Document lacks substantial semantic match to query.
 q20,160,0,0.0568467415869236,Document lacks substantial semantic match to query.
 q20,1569,1,0.6331876516342163,Key match: 'ireland  england  ireland consigned england to their third straight six nations defeat with a stirring victory at lansdowne road  a secondhalf try fro...'
-q20,1571,0,0.22459475696086884,Document lacks substantial semantic match to query.
-q20,180,0,0.002489418489858508,Document lacks substantial semantic match to query.
+q20,1571,0,0.2245947569608688,Document lacks substantial semantic match to query.
+q20,180,0,0.0024894184898585,Document lacks substantial semantic match to query.
 q20,55,1,0.7957717776298523,Key match: 'hong kong in  world cup bid  hong kong is hoping to join japan as cohost of the  rugby world cup  japan has applied to host the tournament on its own ...'
-q20,1599,0,0.055837079882621765,Document lacks substantial semantic match to query.
+q20,1599,0,0.0558370798826217,Document lacks substantial semantic match to query.
 q20,1618,1,0.7509408593177795,Key match: 'wilkinson fit to face edinburgh  england captain jonny wilkinson will make his longawaited return from injury against edinburgh on saturday  wilkinson...'
-q20,347,0,0.013278616592288017,Document lacks substantial semantic match to query.
-q20,351,0,0.07622765004634857,Document lacks substantial semantic match to query.
-q20,99,0,0.025635840371251106,Document lacks substantial semantic match to query.
+q20,347,0,0.013278616592288,Document lacks substantial semantic match to query.
+q20,351,0,0.0762276500463485,Document lacks substantial semantic match to query.
+q20,99,0,0.0256358403712511,Document lacks substantial semantic match to query.
 q20,1516,0,0.0383569709956646,Document lacks substantial semantic match to query.
 q20,1517,1,0.9108304381370544,Key match: 'england given tough sevens draw  england will have to negotiate their way through a tough draw if they are to win the rugby world cup sevens in hong k...'
 q20,113,0,0.4514217674732208,Document lacks substantial semantic match to query.
-q20,626,0,0.003962149377912283,Document lacks substantial semantic match to query.
-q20,1526,0,0.22376948595046997,Document lacks substantial semantic match to query.
+q20,626,0,0.0039621493779122,Document lacks substantial semantic match to query.
+q20,1526,0,0.2237694859504699,Document lacks substantial semantic match to query.
 q21,1539,0,1.7207055861945264e-05,Document lacks substantial semantic match to query.
 q21,1924,0,1.5761788745294325e-05,Document lacks substantial semantic match to query.
 q21,913,0,1.6944586604950018e-05,Document lacks substantial semantic match to query.
 q21,2343,0,2.071512062684633e-05,Document lacks substantial semantic match to query.
-q21,426,0,1.4833741261099931e-05,Document lacks substantial semantic match to query.
+q21,426,0,1.4833741261099933e-05,Document lacks substantial semantic match to query.
 q21,820,0,1.3475749256031122e-05,Document lacks substantial semantic match to query.
 q21,2233,0,1.611312836757861e-05,Document lacks substantial semantic match to query.
 q21,318,0,1.3804986338072922e-05,Document lacks substantial semantic match to query.
 q21,2369,0,1.5431673091370612e-05,Document lacks substantial semantic match to query.
 q21,455,0,2.526022944948636e-05,Document lacks substantial semantic match to query.
-q21,1106,0,3.6984165490139276e-05,Document lacks substantial semantic match to query.
+q21,1106,0,3.698416549013928e-05,Document lacks substantial semantic match to query.
 q21,1631,0,1.7891676179715432e-05,Document lacks substantial semantic match to query.
 q21,1634,0,1.6420761312474497e-05,Document lacks substantial semantic match to query.
-q21,1900,0,1.4348064723890275e-05,Document lacks substantial semantic match to query.
+q21,1900,0,1.4348064723890276e-05,Document lacks substantial semantic match to query.
 q21,1139,0,1.7429303625249304e-05,Document lacks substantial semantic match to query.
 q21,1015,0,1.5004529814177658e-05,Document lacks substantial semantic match to query.
 q21,1273,0,2.526022944948636e-05,Document lacks substantial semantic match to query.
 q21,1017,0,1.783523657650221e-05,Document lacks substantial semantic match to query.
-q21,2303,0,1.3631111869472079e-05,Document lacks substantial semantic match to query.
+q21,2303,0,1.363111186947208e-05,Document lacks substantial semantic match to query.
 q22,1793,0,2.9734266718151048e-05,Document lacks substantial semantic match to query.
 q22,1928,0,1.5497451386181638e-05,Document lacks substantial semantic match to query.
 q22,1929,0,2.257963569718413e-05,Document lacks substantial semantic match to query.
-q22,1800,0,0.004393089562654495,Document lacks substantial semantic match to query.
-q22,783,0,2.0013447283417918e-05,Document lacks substantial semantic match to query.
+q22,1800,0,0.0043930895626544,Document lacks substantial semantic match to query.
+q22,783,0,2.001344728341792e-05,Document lacks substantial semantic match to query.
 q22,2320,0,6.522373587358743e-05,Document lacks substantial semantic match to query.
 q22,1815,0,8.941803389461711e-05,Document lacks substantial semantic match to query.
-q22,1318,0,0.00013947147817816585,Document lacks substantial semantic match to query.
-q22,2236,0,0.000247959018452093,Document lacks substantial semantic match to query.
+q22,1318,0,0.0001394714781781,Document lacks substantial semantic match to query.
+q22,2236,0,0.000247959018452,Document lacks substantial semantic match to query.
 q22,572,0,9.96332528302446e-05,Document lacks substantial semantic match to query.
-q22,2367,0,2.9760227334918454e-05,Document lacks substantial semantic match to query.
-q22,723,0,0.00016144278924912214,Document lacks substantial semantic match to query.
+q22,2367,0,2.976022733491845e-05,Document lacks substantial semantic match to query.
+q22,723,0,0.0001614427892491,Document lacks substantial semantic match to query.
 q22,2269,0,2.492671410436742e-05,Document lacks substantial semantic match to query.
 q22,2408,0,6.850878708064556e-05,Document lacks substantial semantic match to query.
 q22,1643,0,9.920985030476004e-05,Document lacks substantial semantic match to query.
 q22,1390,0,9.96332528302446e-05,Document lacks substantial semantic match to query.
-q22,1648,0,0.00010915453458437696,Document lacks substantial semantic match to query.
+q22,1648,0,0.0001091545345843,Document lacks substantial semantic match to query.
 q22,1778,0,4.352139148977585e-05,Document lacks substantial semantic match to query.
-q22,500,0,0.00013947147817816585,Document lacks substantial semantic match to query.
+q22,500,0,0.0001394714781781,Document lacks substantial semantic match to query.
 q22,2293,0,1.6595347915426828e-05,Document lacks substantial semantic match to query.
-q23,2065,1,0.9954429864883423,Key match: 'indie film nominations announced  mike leighs awardwinning abortion drama vera drake has scooped seven nominations at this years british independent f...'
-q23,2072,1,0.9904599189758301,Key match: 'aviator wins top globes accolades  the aviator has been named best film at the golden globe awards with its star leonardo dicaprio named best actor  h...'
+q23,2065,1,0.9954429864883424,Key match: 'indie film nominations announced  mike leighs awardwinning abortion drama vera drake has scooped seven nominations at this years british independent f...'
+q23,2072,1,0.99045991897583,Key match: 'aviator wins top globes accolades  the aviator has been named best film at the golden globe awards with its star leonardo dicaprio named best actor  h...'
 q23,1059,1,0.7828401327133179,Key match: 'hundreds vie for best film oscar  a total of  films are eligible for the best film oscar but only five will be chosen to go forward as nominees  the a...'
-q23,2085,0,0.07713351398706436,Document lacks substantial semantic match to query.
+q23,2085,0,0.0771335139870643,Document lacks substantial semantic match to query.
 q23,2086,1,0.8500659465789795,Key match: 'vera drake scoops film award  oscar hopefuls mike leigh and imelda staunton were both winners at the  evening standard british film awards  vera drake...'
 q23,2087,1,0.9951680898666382,Key match: 'lowbudget film wins cesar  a film that follows a group of alienated youth in a paris suburb as they prepare to perform an th century play has won fran...'
-q23,2096,1,0.9921518564224243,Key match: 'controversial film tops festival  a controversial film starring hollywood actor kevin bacon as a convicted paedophile won top honours at the london fi...'
+q23,2096,1,0.9921518564224244,Key match: 'controversial film tops festival  a controversial film starring hollywood actor kevin bacon as a convicted paedophile won top honours at the london fi...'
 q23,1072,1,0.9688680768013,Key match: 'hollywood ready for oscars night  hollywood is preparing for the biggest night in the film worlds calendar the th academy awards on sunday  a host of ...'
-q23,1973,1,0.9988976716995239,Key match: 'russian film wins bbc world prize  russian drama the return vozvrashchenie has been named winner of the bbc four world cinema award  the film tells th...'
+q23,1973,1,0.998897671699524,Key match: 'russian film wins bbc world prize  russian drama the return vozvrashchenie has been named winner of the bbc four world cinema award  the film tells th...'
 q23,2102,1,0.9877148866653442,Key match: 'super size me wins writers award  super size me director morgan spurlock has won the writers guild of americas award for documentary feature writing  ...'
-q23,1080,1,0.9989271759986877,Key match: 'uk directors guild nominees named  martin scorsese and clint eastwood are among the nominees for the top prize at the directors guild of great britain...'
+q23,1080,1,0.9989271759986876,Key match: 'uk directors guild nominees named  martin scorsese and clint eastwood are among the nominees for the top prize at the directors guild of great britain...'
 q23,1993,1,0.852074921131134,Key match: 'french honour for director parker  british film director sir alan parker has been made an officer in the order of arts and letters one of frances high...'
-q23,1098,0,0.04773642495274544,Document lacks substantial semantic match to query.
-q23,2124,1,0.9979798197746277,Key match: 'berlin honours s korean director  south korean film director im kwontaek has received an honorary golden bear at the berlin film festival  im who has ...'
+q23,1098,0,0.0477364249527454,Document lacks substantial semantic match to query.
+q23,2124,1,0.9979798197746276,Key match: 'berlin honours s korean director  south korean film director im kwontaek has received an honorary golden bear at the berlin film festival  im who has ...'
 q23,2002,1,0.9937394857406616,Key match: 'us critics laud comedy sideways  road trip comedy sideways has had more praise heaped on it by two us critics associations adding to honours it has al...'
-q23,2003,0,0.0019181242678314447,Document lacks substantial semantic match to query.
+q23,2003,0,0.0019181242678314,Document lacks substantial semantic match to query.
 q23,1113,1,0.9765064120292664,Key match: 'double win for sea inside  spanish movie the sea inside has been named best picture and star javier bardem best actor at the bangkok international fil...'
-q23,1115,1,0.9951688647270203,Key match: 'wine comedy wins critics award  quirky comedy sideways was named the best film of the year by the los angeles film critics association  the us movie a...'
-q23,2154,0,0.0008928839233703911,Document lacks substantial semantic match to query.
+q23,1115,1,0.9951688647270204,Key match: 'wine comedy wins critics award  quirky comedy sideways was named the best film of the year by the los angeles film critics association  the us movie a...'
+q23,2154,0,0.0008928839233703,Document lacks substantial semantic match to query.
 q23,2026,1,0.9988126754760742,Key match: 'russian film wins bbc world prize  russian drama the return vozvrashchenie has been named winner of the bbc four world cinema award  the film tells th...'
-q23,2159,0,0.06401962786912918,Document lacks substantial semantic match to query.
-q24,2114,0,0.00887214858084917,Document lacks substantial semantic match to query.
-q24,2115,0,0.06594770401716232,Document lacks substantial semantic match to query.
-q24,1956,0,0.02022445760667324,Document lacks substantial semantic match to query.
-q24,1060,0,0.00010461118654347956,Document lacks substantial semantic match to query.
-q24,1095,0,0.008526789024472237,Document lacks substantial semantic match to query.
-q24,327,0,5.4086434829514474e-05,Document lacks substantial semantic match to query.
-q24,2025,0,0.017677778378129005,Document lacks substantial semantic match to query.
-q24,1995,0,0.004554982762783766,Document lacks substantial semantic match to query.
-q24,2027,0,0.0013526692055165768,Document lacks substantial semantic match to query.
-q24,2125,0,0.012201502919197083,Document lacks substantial semantic match to query.
+q23,2159,0,0.0640196278691291,Document lacks substantial semantic match to query.
+q24,2114,0,0.0088721485808491,Document lacks substantial semantic match to query.
+q24,2115,0,0.0659477040171623,Document lacks substantial semantic match to query.
+q24,1956,0,0.0202244576066732,Document lacks substantial semantic match to query.
+q24,1060,0,0.0001046111865434,Document lacks substantial semantic match to query.
+q24,1095,0,0.0085267890244722,Document lacks substantial semantic match to query.
+q24,327,0,5.408643482951448e-05,Document lacks substantial semantic match to query.
+q24,2025,0,0.017677778378129,Document lacks substantial semantic match to query.
+q24,1995,0,0.0045549827627837,Document lacks substantial semantic match to query.
+q24,2027,0,0.0013526692055165,Document lacks substantial semantic match to query.
+q24,2125,0,0.012201502919197,Document lacks substantial semantic match to query.
 q24,2062,1,0.6327889561653137,Key match: 'poppins musical gets flying start  the stage adaptation of childrens film mary poppins has had its opening night in londons west end  sir cameron mack...'
 q24,2063,1,0.6079785823822021,Key match: 'tough schedule delays elliot show  preview performances of the m musical billy elliot have been delayed to give the child actors a less arduous rehear...'
-q24,1999,0,0.0001343003532383591,Document lacks substantial semantic match to query.
-q24,2129,0,0.04496404528617859,Document lacks substantial semantic match to query.
-q24,2200,0,0.0002199858718086034,Document lacks substantial semantic match to query.
-q24,2037,0,0.021734368056058884,Document lacks substantial semantic match to query.
+q24,1999,0,0.0001343003532383,Document lacks substantial semantic match to query.
+q24,2129,0,0.0449640452861785,Document lacks substantial semantic match to query.
+q24,2200,0,0.0002199858718086,Document lacks substantial semantic match to query.
+q24,2037,0,0.0217343680560588,Document lacks substantial semantic match to query.
 q24,1048,0,0.2127002328634262,Document lacks substantial semantic match to query.
-q24,1949,0,0.020530015230178833,Document lacks substantial semantic match to query.
+q24,1949,0,0.0205300152301788,Document lacks substantial semantic match to query.
 q25,1696,0,0.4499191641807556,Document lacks substantial semantic match to query.
-q25,1760,0,0.31542903184890747,Document lacks substantial semantic match to query.
-q25,2274,0,0.014256938360631466,Document lacks substantial semantic match to query.
-q25,1699,0,0.009286775253713131,Document lacks substantial semantic match to query.
-q25,1893,0,0.0007505911053158343,Document lacks substantial semantic match to query.
-q25,2374,0,3.7471956602530554e-05,Document lacks substantial semantic match to query.
-q25,1642,0,0.0028913316782563925,Document lacks substantial semantic match to query.
-q25,2251,1,0.9475607872009277,Key match: 'bank voted  for no rate change  the decision to keep interest rates on hold at  earlier this month was passed  by the bank of englands ratesetting bod...'
-q25,2220,0,0.04138869419693947,Document lacks substantial semantic match to query.
-q25,2285,0,0.12409698963165283,Document lacks substantial semantic match to query.
-q25,1678,0,0.30047982931137085,Document lacks substantial semantic match to query.
+q25,1760,0,0.3154290318489074,Document lacks substantial semantic match to query.
+q25,2274,0,0.0142569383606314,Document lacks substantial semantic match to query.
+q25,1699,0,0.0092867752537131,Document lacks substantial semantic match to query.
+q25,1893,0,0.0007505911053158,Document lacks substantial semantic match to query.
+q25,2374,0,3.747195660253056e-05,Document lacks substantial semantic match to query.
+q25,1642,0,0.0028913316782563,Document lacks substantial semantic match to query.
+q25,2251,1,0.9475607872009276,Key match: 'bank voted  for no rate change  the decision to keep interest rates on hold at  earlier this month was passed  by the bank of englands ratesetting bod...'
+q25,2220,0,0.0413886941969394,Document lacks substantial semantic match to query.
+q25,2285,0,0.1240969896316528,Document lacks substantial semantic match to query.
+q25,1678,0,0.3004798293113708,Document lacks substantial semantic match to query.
 q25,2350,0,3.0703980883117765e-05,Document lacks substantial semantic match to query.
-q25,1777,0,0.31835100054740906,Document lacks substantial semantic match to query.
+q25,1777,0,0.318351000547409,Document lacks substantial semantic match to query.
 q25,2260,0,7.371720857918262e-05,Document lacks substantial semantic match to query.
-q25,1719,0,0.39465460181236267,Document lacks substantial semantic match to query.
-q25,2265,0,0.33372876048088074,Document lacks substantial semantic match to query.
-q25,1756,0,3.6988720239605755e-05,Document lacks substantial semantic match to query.
-q25,1853,0,0.00018098769942298532,Document lacks substantial semantic match to query.
+q25,1719,0,0.3946546018123626,Document lacks substantial semantic match to query.
+q25,2265,0,0.3337287604808807,Document lacks substantial semantic match to query.
+q25,1756,0,3.698872023960576e-05,Document lacks substantial semantic match to query.
+q25,1853,0,0.0001809876994229,Document lacks substantial semantic match to query.
+q01,2326,0,5.341680298442952e-05,Document lacks substantial semantic match to query.
+q01,534,0,4.616616206476465e-05,Document lacks substantial semantic match to query.
+q01,1712,0,0.0014563646400347,Document lacks substantial semantic match to query.
+q01,2359,0,0.0005347641999833,Document lacks substantial semantic match to query.
+q01,1728,0,2.0235360352671705e-05,Document lacks substantial semantic match to query.
+q01,1352,0,4.616616206476465e-05,Document lacks substantial semantic match to query.
+q01,1745,0,0.0011984754819422,Document lacks substantial semantic match to query.
+q01,1765,0,0.0001680410059634,Document lacks substantial semantic match to query.
+q01,1649,0,0.0005808834685012,Document lacks substantial semantic match to query.
+q02,804,0,0.0561918430030345,Document lacks substantial semantic match to query.
+q02,583,0,0.0561918430030345,Document lacks substantial semantic match to query.
+q02,749,0,0.0017636173870414,Document lacks substantial semantic match to query.
+q02,1400,0,0.0018130247481167,Document lacks substantial semantic match to query.
+q03,1559,0,0.0132340937852859,Document lacks substantial semantic match to query.
+q03,155,0,0.000547042407561,Document lacks substantial semantic match to query.
+q03,192,0,0.0089718978852033,Document lacks substantial semantic match to query.
+q03,453,0,0.0017129855696111,Document lacks substantial semantic match to query.
+q03,1486,0,0.0019744262099266,Document lacks substantial semantic match to query.
+q03,1493,0,0.001239511417225,Document lacks substantial semantic match to query.
+q03,361,0,0.0051525007002055,Document lacks substantial semantic match to query.
+q03,245,0,0.0004010646662209,Document lacks substantial semantic match to query.
+q03,1271,0,0.0017129855696111,Document lacks substantial semantic match to query.
+q04,1195,0,0.0020309772808104,Document lacks substantial semantic match to query.
+q04,300,0,0.0016316638793796,Document lacks substantial semantic match to query.
+q04,831,0,0.1657602488994598,Document lacks substantial semantic match to query.
+q04,1219,0,0.0885463282465934,Document lacks substantial semantic match to query.
+q04,840,1,0.7317680716514587,Key match: 'observers to monitor uk election  ministers will invite international observers to check the forthcoming uk general election is fairly run  the move c...'
+q04,202,0,0.0125776221975684,Document lacks substantial semantic match to query.
+q04,972,0,0.1394761949777603,Document lacks substantial semantic match to query.
+q04,225,1,0.6000818014144897,Key match: 'election deal faltered over heath role  the tories failed to hold onto power in  after liberals demanded sir edward heath quit in return for cooperati...'
+q04,226,0,0.1657602488994598,Document lacks substantial semantic match to query.
+q04,242,0,0.0028559281490743,Document lacks substantial semantic match to query.
+q04,1140,0,0.139932245016098,Document lacks substantial semantic match to query.
+q04,888,0,0.0071685151197016,Document lacks substantial semantic match to query.
+q04,1149,0,0.001047269324772,Document lacks substantial semantic match to query.
+q05,2048,1,0.9967424273490906,Key match: 'foxx and swank win us awards  jamie foxx and hilary swank have won the screen actors guild awards for best male and female film actors boosting their ...'
+q05,1026,1,0.9382149577140808,Key match: 'career honour for actor dicaprio  actor leonardo dicaprios exceptional career has been honoured at the santa barbara international film festival  the ...'
+q05,1948,1,0.9952444434165956,Key match: 'british stars denied major oscars  british hopes of winning major oscars were dashed as uk stars failed to win acting and directing prizes  despite th...'
+q05,1980,1,0.8145305514335632,Key match: 'de niro film leads us box office  film star robert de niro has returned to the top of the north american box office with his film hide and seek  the t...'
+q05,1986,1,0.7161641120910645,Key match: 'us afflicted with awards fatigue  the film world and media may be wild about the oscars but cinemagoers and the tvviewing public are sick of watching ...'
+q05,2007,0,0.4651890993118286,Document lacks substantial semantic match to query.
+q05,1121,1,0.9928817749023438,Key match: 'critics back aviator for oscars  martin scorseses the aviator will win best film at the oscars according to the uks leading movie critics  but several...'
+q05,2021,1,0.9978538155555724,Key match: 'baby becomes new oscar favourite  clint eastwoods boxing drama million dollar baby has become the new favourite to win best picture at the oscars on s...'
+q05,2022,1,0.9850623607635498,Key match: 'surprise win for antibush film  michael moores antibush documentary fahrenheit  has won best film at the us peoples choice awards voted for by the us ...'
+q05,2150,1,0.7771852612495422,Key match: 'stars gear up for bafta ceremony  film stars from across the globe are preparing to walk the red carpet at this years bafta award ceremony  the  orang...'
+q05,2159,1,0.9944052696228028,Key match: 'actor foxx sees globe nominations  us actor jamie foxx has been given two nominations for golden globe awards with meryl streep morgan freeman and cat...'
+q05,2172,1,0.8145305514335632,Key match: 'de niro film leads us box office  film star robert de niro has returned to the top of the north american box office with his film hide and seek  the t...'
+q05,2045,1,0.8887606263160706,Key match: 'bafta to hand out movie honours  movie stars from across the globe are attending this years bafta film award ceremony  british stars imelda staunton a...'
+q06,897,0,1.7497619410278276e-05,Document lacks substantial semantic match to query.
+q06,1861,0,3.1387960916617885e-05,Document lacks substantial semantic match to query.
+q06,1958,0,1.7576874597580172e-05,Document lacks substantial semantic match to query.
+q06,1830,0,0.000273579993518,Document lacks substantial semantic match to query.
+q06,1899,0,3.494098564260639e-05,Document lacks substantial semantic match to query.
+q06,783,0,6.015494000166655e-05,Document lacks substantial semantic match to query.
+q06,2385,0,7.105801341822371e-05,Document lacks substantial semantic match to query.
+q07,2309,0,5.860556848347187e-05,Document lacks substantial semantic match to query.
+q07,2325,0,0.000248404132435,Document lacks substantial semantic match to query.
+q07,282,0,2.236074215034023e-05,Document lacks substantial semantic match to query.
+q07,1436,0,1.5242644622048829e-05,Document lacks substantial semantic match to query.
+q07,1693,0,4.714990063803271e-05,Document lacks substantial semantic match to query.
+q07,1832,0,0.0001666526368353,Document lacks substantial semantic match to query.
+q07,2349,0,0.0001987488940358,Document lacks substantial semantic match to query.
+q07,2351,0,6.958226003916934e-05,Document lacks substantial semantic match to query.
+q07,2246,0,6.437593401642516e-05,Document lacks substantial semantic match to query.
+q07,1864,0,0.0002007195871556,Document lacks substantial semantic match to query.
+q07,716,0,8.341829379787669e-05,Document lacks substantial semantic match to query.
+q07,856,0,1.6238573152804747e-05,Document lacks substantial semantic match to query.
+q07,2271,0,3.115849904133938e-05,Document lacks substantial semantic match to query.
+q07,1761,0,6.761893018847331e-05,Document lacks substantial semantic match to query.
+q07,1771,0,0.0001987488940358,Document lacks substantial semantic match to query.
+q07,1143,0,1.866325874289032e-05,Document lacks substantial semantic match to query.
+q07,1784,0,0.0001994377817027,Document lacks substantial semantic match to query.
+q07,251,0,0.0001599140668986,Document lacks substantial semantic match to query.
+q08,1922,0,0.0202234219759702,Document lacks substantial semantic match to query.
+q08,1853,0,0.0664664730429649,Document lacks substantial semantic match to query.
+q09,1407,0,0.0052563124336302,Document lacks substantial semantic match to query.
+q09,589,0,0.0052563124336302,Document lacks substantial semantic match to query.
+q09,442,0,0.0912177860736846,Document lacks substantial semantic match to query.
+q10,1560,0,0.0104792173951864,Document lacks substantial semantic match to query.
+q10,1592,0,0.0036021941341459,Document lacks substantial semantic match to query.
+q10,58,0,0.006707833148539,Document lacks substantial semantic match to query.
+q10,1220,0,0.0001115577324526,Document lacks substantial semantic match to query.
+q10,68,0,0.0120258508250117,Document lacks substantial semantic match to query.
+q10,1487,0,0.0061036739498376,Document lacks substantial semantic match to query.
+q10,99,0,0.0012000015703961,Document lacks substantial semantic match to query.
+q10,1517,0,0.0004938549245707,Document lacks substantial semantic match to query.
+q11,916,0,0.0640947371721267,Document lacks substantial semantic match to query.
+q11,2330,0,0.0014970195479691,Document lacks substantial semantic match to query.
+q11,929,0,0.0034975321032106,Document lacks substantial semantic match to query.
+q11,2219,0,0.1401623338460922,Document lacks substantial semantic match to query.
+q11,842,0,0.0085385730490088,Document lacks substantial semantic match to query.
+q11,205,0,0.3440207839012146,Document lacks substantial semantic match to query.
+q12,624,0,0.0001500532962381,Document lacks substantial semantic match to query.
+q13,400,0,0.5556976795196533,Document lacks substantial semantic match to query.
+q13,810,0,5.297450115904212e-05,Document lacks substantial semantic match to query.
+q14,2304,0,0.0136882411316037,Document lacks substantial semantic match to query.
+q14,1286,0,0.0035717629361897,Document lacks substantial semantic match to query.
+q14,775,0,0.1404853165149688,Document lacks substantial semantic match to query.
+q14,814,0,0.0037326868623495,Document lacks substantial semantic match to query.
+q14,583,0,0.0014550505438819,Document lacks substantial semantic match to query.
+q14,1227,0,0.0008952112402766,Document lacks substantial semantic match to query.
+q14,468,0,0.0035717629361897,Document lacks substantial semantic match to query.
+q14,1757,0,0.0146801974624395,Document lacks substantial semantic match to query.
+q15,2144,0,0.0205631759017705,Document lacks substantial semantic match to query.
+q15,2049,0,0.0007047544931992,Document lacks substantial semantic match to query.
+q15,1104,0,0.0523513257503509,Document lacks substantial semantic match to query.
+q15,2109,0,0.0227353386580944,Document lacks substantial semantic match to query.
+q15,1075,0,0.0523513257503509,Document lacks substantial semantic match to query.
+q15,2010,0,0.0218140538781881,Document lacks substantial semantic match to query.
+q15,2141,0,0.0754639357328414,Document lacks substantial semantic match to query.
+q16,2370,0,0.0005287227686494,Document lacks substantial semantic match to query.
+q17,2360,0,1.4878354704705998e-05,Document lacks substantial semantic match to query.
+q17,302,0,4.500080103753135e-05,Document lacks substantial semantic match to query.
+q17,1138,0,1.2241213880770374e-05,Document lacks substantial semantic match to query.
+q17,1685,0,1.4066404219192918e-05,Document lacks substantial semantic match to query.
+q17,219,0,0.0001013573855743,Document lacks substantial semantic match to query.
+q18,272,0,1.7539920008857735e-05,Document lacks substantial semantic match to query.
+q18,1175,0,0.0002201388560933,Document lacks substantial semantic match to query.
+q18,924,0,0.0003364507865626,Document lacks substantial semantic match to query.
+q18,1202,0,3.18013371725101e-05,Document lacks substantial semantic match to query.
+q18,314,0,0.0002615326957311,Document lacks substantial semantic match to query.
+q18,216,0,3.752685006475076e-05,Document lacks substantial semantic match to query.
+q18,236,0,0.0003097260778304,Document lacks substantial semantic match to query.
+q18,1651,0,0.0011609458597376,Document lacks substantial semantic match to query.
+q19,161,1,0.7920054197311401,Key match: 'safin plays down wimbledon hopes  newlycrowned australian open champion marat safin has ruled out any chance of winning wimbledon in the future  after...'
+q19,1585,0,0.1302781552076339,Document lacks substantial semantic match to query.
+q19,1464,0,0.0620892830193042,Document lacks substantial semantic match to query.
+q19,60,0,0.1709745675325393,Document lacks substantial semantic match to query.
+q19,77,0,0.2656332850456238,Document lacks substantial semantic match to query.
+q19,1490,0,0.2012695670127868,Document lacks substantial semantic match to query.
+q19,1623,0,0.1537521034479141,Document lacks substantial semantic match to query.
+q19,370,0,0.0223636701703071,Document lacks substantial semantic match to query.
+q20,1553,0,0.001321887015365,Document lacks substantial semantic match to query.
+q20,189,0,0.0015988172963261,Document lacks substantial semantic match to query.
+q20,1508,0,0.0028889009263366,Document lacks substantial semantic match to query.
+q20,359,0,0.003427215386182,Document lacks substantial semantic match to query.
+q20,382,0,0.0076715280301868,Document lacks substantial semantic match to query.
+q21,523,0,1.5685300240875222e-05,Document lacks substantial semantic match to query.
+q21,785,0,1.5685300240875222e-05,Document lacks substantial semantic match to query.
+q21,420,0,1.696856998023577e-05,Document lacks substantial semantic match to query.
+q21,677,0,1.403408623446012e-05,Document lacks substantial semantic match to query.
+q21,809,0,1.2239485840837006e-05,Document lacks substantial semantic match to query.
+q21,431,0,1.3623599443235436e-05,Document lacks substantial semantic match to query.
+q21,1341,0,1.5685300240875222e-05,Document lacks substantial semantic match to query.
+q21,449,0,1.4228005056793336e-05,Document lacks substantial semantic match to query.
+q21,711,0,1.646793316467665e-05,Document lacks substantial semantic match to query.
+q21,1244,0,1.4833741261099933e-05,Document lacks substantial semantic match to query.
+q21,221,0,1.3537525774154346e-05,Document lacks substantial semantic match to query.
+q21,864,0,1.4585508324671537e-05,Document lacks substantial semantic match to query.
+q21,1249,0,1.3623599443235436e-05,Document lacks substantial semantic match to query.
+q21,746,0,1.4635696970799472e-05,Document lacks substantial semantic match to query.
+q21,1267,0,1.4228005056793336e-05,Document lacks substantial semantic match to query.
+q22,1686,0,8.336739847436547e-05,Document lacks substantial semantic match to query.
+q22,2337,0,2.8902286430820823e-05,Document lacks substantial semantic match to query.
+q22,1628,0,4.180827454547398e-05,Document lacks substantial semantic match to query.
+q23,2048,1,0.9756067991256714,Key match: 'foxx and swank win us awards  jamie foxx and hilary swank have won the screen actors guild awards for best male and female film actors boosting their ...'
+q23,1047,1,0.9639467597007751,Key match: 'arnold congratulated on oscar win  oscarwinner andrea arnold has been congratulated by the uk film council the organisation which partly funded her pr...'
+q23,1948,1,0.9817035794258118,Key match: 'british stars denied major oscars  british hopes of winning major oscars were dashed as uk stars failed to win acting and directing prizes  despite th...'
+q23,2110,1,0.989355206489563,Key match: 'sideways dominates spirit awards  the comedy sideways has dominated this years independent spirit awards winning all six of the awards for which it wa...'
+q23,1986,0,0.1680315434932708,Document lacks substantial semantic match to query.
+q23,2118,1,0.86961430311203,Key match: 'tautou film tops cesar prize nods  french film a very long engagement has received  nominations for frances cesar film awards despite a recent ruling ...'
+q23,2120,1,0.9907006025314332,Key match: 'spirit awards hail sideways  the comedy sideways has dominated this years independent spirit awards winning all six of the awards for which it was nom...'
+q23,1121,1,0.992379903793335,Key match: 'critics back aviator for oscars  martin scorseses the aviator will win best film at the oscars according to the uks leading movie critics  but several...'
+q23,2020,0,0.228969469666481,Document lacks substantial semantic match to query.
+q23,2150,1,0.689793586730957,Key match: 'stars gear up for bafta ceremony  film stars from across the globe are preparing to walk the red carpet at this years bafta award ceremony  the  orang...'
+q23,1130,0,0.3802953362464905,Document lacks substantial semantic match to query.
+q23,2028,1,0.9710724949836732,Key match: 'eastwoods baby scoops top oscars  clint eastwoods million dollar baby beat martin scorseses the aviator to the top awards at the oscars on sunday  the...'
+q23,2030,0,0.0032841661013662,Document lacks substantial semantic match to query.
+q23,2166,1,0.9264894723892212,Key match: 'vera drakes bafta triumph hope  at the bafta film awards on saturday night there is the prospect that a homegrown movie could walk off with a clutch o...'
+q24,2020,0,0.0003801176499109,Document lacks substantial semantic match to query.
+q24,1061,0,0.0001534734037704,Document lacks substantial semantic match to query.
+q24,1072,0,0.0550411865115165,Document lacks substantial semantic match to query.
+q25,1682,0,5.213182157604024e-05,Document lacks substantial semantic match to query.
+q25,2345,0,0.0005028641899116,Document lacks substantial semantic match to query.
+q25,1707,0,2.088017390633468e-05,Document lacks substantial semantic match to query.
+q25,2370,0,1.4735131117049605e-05,Document lacks substantial semantic match to query.
+q25,1874,0,0.0026144187431782,Document lacks substantial semantic match to query.
